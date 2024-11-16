@@ -1,0 +1,1441 @@
+@media (max-width:1362px) {
+    #residences .residences_flex .residences_san {
+        width: 370px;
+    }
+    #residences .residences_palo {
+        width: 370px;
+    }
+    #residences .residences_flex {
+        gap:57px;
+    }
+    #home .wrapper .spotlight_middle{
+        margin-left: 68px;
+    }
+    #footer .wrapper ul {
+        gap: 120px;
+    }
+    #residences .residences_beverly{
+        width: 370px;
+    }
+}
+@media(max-width:1317px){
+    #footer .wrapper ul .logo a h5 {
+        font-size: 16px;
+    }
+    #footer .wrapper ul .logo p{
+        font-size: 16px;
+    }
+}
+@media (max-width:1289px){
+    #home .wrapper .spotlight_middle{
+        margin-left: 48px;
+        width: 1020px;
+    }
+    #home .wrapper #spotlight .spotlight_middle ul{
+        gap: 17px;
+        margin-left: 81px;
+    }
+    #home .wrapper #spotlight .spotlight_middle ul .last_li {
+        padding-left: 16px;
+    }
+    #middle .wrapper .house_img{
+        width: 567px;
+    } 
+   #residences .residences_flex .residences_san {
+        width: 360px;
+    }
+    #residences .residences_palo {
+        width: 360px;
+    }
+    #residences .residences_flex {
+        gap:51px;
+    }
+    #about .about_flex ul li{
+        width: 374px;
+    }
+    #about .about_flex ul li .room{
+        width: 374px;
+    }
+    #about .wrapper .about_flex ul{
+        gap: 35px;
+    }
+    #residences .residences_beverly{
+        width: 360px;
+    }
+}
+@media (max-width:1247px){
+    #home .wrapper #spotlight .spotlight_flex h2{
+        font-size: 68px;
+    }
+    #home .wrapper #spotlight .spotlight_flex p {
+        font-size: 16px;
+    }
+    #home .wrapper #spotlight button.signup {
+        width: 164px;    
+    }
+    #home .wrapper #spotlight img.hero{
+        width: 820px;
+    }
+    #home .wrapper .spotlight_middle{
+        top: 719px ;
+    }
+    #middle .wrapper .house_img {
+        width: 545px;
+    }
+    #residences .residences_flex .residences_san {
+        width: 345px;
+    }
+    #residences .residences_palo {
+        width: 345px;
+    }
+    #residences .residences_flex {
+        gap: 44px;
+    }
+    #footer .wrapper ul .Social a h5 {
+        font-size: 13px;
+    }
+    #footer .wrapper ul .logo a h5 {
+        font-size: 13px;
+    }
+    #footer .wrapper ul .logo p{
+        font-size: 13px;
+    }
+    #residences .residences_beverly{
+        width: 345px;
+    }
+}
+@media (max-width:1228px){
+    #main div .handshake p{
+        font-size: 12px;
+    }
+    #main div .handshake h3{
+        font-size: 13px;
+    }
+    #main div .document h3 {
+        font-size: 13px;
+    }
+    #main div .document p{
+        font-size: 12px;
+    }
+    #main div .document p{
+        font-size: 12px;
+    }
+    #main div .Service h3{
+        font-size: 13px;
+    }
+    #main .wrapper .main_flex .Service p{
+        font-size: 12px;
+    }
+    #main .wrapper .main_flex .Vector h3{
+        font-size: 13px;
+    }
+    #main .wrapper .main_flex .Vector .Vector_p{
+        font-size: 12px;
+    }
+}
+@media (max-width:1194px){
+    #home .wrapper #spotlight .spotlight_flex h2 span{
+        font-size: 59px;
+    }
+    #home .wrapper .spotlight_middle{
+        margin-left: 26px;
+    }
+    #middle .wrapper .house_img{
+        width: 520px;
+    }
+    #middle .wrapper .help_content .help_content_p{
+        font-size: 16px;
+    }
+    #residences .residences_flex .residences_san {
+        width: 330px;
+    }
+    #residences .residences_palo {
+        width: 330px;
+    }
+    #residences .residences_flex {
+        gap: 39px;
+    }
+    #about .wrapper .about_flex ul{
+        gap: 28px;
+    }
+    #about .about_flex ul li{
+        width: 360px;
+    }
+    #about .about_flex ul li .room{
+        width: 360px;
+    }
+    #home .wrapper #spotlight img.hero {
+        width: 790px;
+    }
+    #main .wrapper .Vector{
+        width: 230px;
+    }
+    #main div .Service{
+        width: 230px;
+    }
+    #main div .document{
+        width: 230px;
+    }
+    #main div .handshake {
+        width: 230px;
+    }
+    #main .main_flex{
+        justify-content: start;
+        gap: 34px;
+    }
+    #home .wrapper #spotlight img.hero{
+        right: -2px;
+    }
+    #residences .residences_beverly{
+        width: 330px;
+    }
+}
+@media (max-width:1171px){
+    #about .about_flex ul li .about_p {
+        font-size: 14px;
+    }
+    #about .about_flex ul li .sarah_image h3{
+        font-size: 18px;
+    }
+    #about .about_flex ul li .sarah_image h3{
+        font-size: 14px;
+    }
+    #about .about_flex ul li{
+        width: 340px;
+    }
+    #about .about_flex ul li .room{
+        width: 340px;
+    }
+    #home .wrapper #spotlight .spotlight_middle ul .last_li {
+        width: 100px;
+    }
+    #home .wrapper #spotlight .spotlight_middle ul{
+        margin-left: -17px;
+    }
+}
+@media (max-width:1168px){
+    #residences .residences_flex .residences_san .residences_h img{
+        width: 18px;
+    }
+    #residences .residences_flex .residences_san .residences_h h4 {
+        font-size: 17px;
+    }
+    #residences .residences_flex .residences_san .residences_room ul li p {
+        font-size: 15px;
+    }
+    #residences .residences_flex .residences_san .residences_room ul li {
+        gap: 10px;
+    }
+    #residences .residences_flex .residences_san .residences_amount button{
+        width: 85px;
+    }
+    #residences .residences_flex .residences_san .residences_amount p {
+        font-size: 18px;
+    }
+    #residences .residences_beverly .residences_h img{
+        width: 18px;
+    }
+    #residences .residences_beverly .residences_h h4 {
+        font-size: 17px;
+    }
+    #residences .residences_beverly .residences_room ul li p{
+        font-size: 15px;
+    }
+    #residences .residences_beverly .residences_room ul li{
+        gap: 10px;
+    }
+    #residences .residences_beverly .residences_amount button{
+        width: 85px;
+    }
+    #residences .residences_beverly .residences_amount p{
+        font-size: 18px;
+    }
+    #residences .residences_palo .residences_h img {
+        width: 18px;
+    }
+    #residences .residences_palo .residences_h h4{
+        font-size: 17px;
+    }
+    #residences .residences_palo .residences_room ul li p {
+        font-size: 15px;
+    }
+    #residences .residences_palo .residences_room ul li{
+        gap: 10px;
+    }
+    #residences .residences_palo .residences_amount button {
+        width: 85px;
+    }
+    #residences .residences_palo .residences_amount p{
+        font-size: 18px;
+    }
+    #residences .residences_palo {
+        width: 315px;
+    }
+    #residences .residences_flex {
+        gap: 38px;
+    }
+    #home .wrapper #spotlight img.hero {
+        width: 750px;
+    }
+    #residences .residences_flex .residences_san{
+        width: 315px;
+    }
+    #residences .residences_beverly{
+        width: 315px;
+    }
+}
+@media (max-width:1146px){
+    #home .wrapper #spotlight img.hero{
+        width: 700px;
+    }
+    #footer .wrapper ul .logo h3 {
+        font-size: 19px;
+    }
+    #footer .wrapper ul .logo p{
+        font-size: 11px;
+    }
+    #footer .wrapper ul .logo a h5{
+        font-size: 11px;
+    }
+}
+@media (max-width:1101px){
+    #home .wrapper .spotlight_middle{
+        margin-left: -3px;
+    }
+    #middle .wrapper .house_img {
+        width: 490px;
+    }
+    #home .wrapper #spotlight .spotlight_flex h2{
+        font-size: 55px;
+    }
+    #home .wrapper #spotlight .spotlight_flex h2 span{
+        font-size: 55px;
+    }
+}
+@media (max-width:1076px){
+    #home .wrapper .spotlight_middle{
+        width: 970px;
+    }
+    #home .wrapper #spotlight img.hero{
+        width: 654px;
+    }
+    #middle .wrapper .help_content .help_content_p {
+        margin-bottom: 18px;
+    }
+    #middle .wrapper .help_content .help_content_p{
+        font-size: 14px;
+    }
+    #middle .wrapper .help_content h2{
+        font-size: 38px;
+    }
+    #middle .help_content .help_flex .adjust{
+        font-size: 40px;
+    }
+    #middle .help_content .help_flex .help_p{
+        font-size: 15px;
+    }
+    #residences .residences_flex {
+        gap: 27px;
+    }
+    #about .wrapper .about_flex ul{
+        gap: 13px;
+    }
+}
+@media (max-width:1066px){
+    #footer .wrapper ul .logo a img {
+        width: 86px;
+    }
+    #footer .wrapper ul .logo p{
+        font-size: 9px;
+    }
+    #footer .wrapper ul .logo h3 {
+        font-size: 16px;
+    }
+    #footer .wrapper ul .Social h3{
+        font-size: 16px;
+    }
+    #footer .wrapper ul .logo a h5{
+        font-size: 9px;
+    }
+    #footer .wrapper ul .Social a h5{
+        font-size: 9px;
+    }
+    #footer .wrapper ul .Social a img{
+        width: 20px;
+    }
+}
+@media (max-width:1051px){
+    #home .wrapper header nav ul{
+        gap: 38px;
+    }
+    #home .wrapper header h1 a img {
+        width: 85px;
+    }
+    #home .wrapper header h1 a img {
+        gap: 20px;
+    }
+    #home .wrapper #spotlight img.hero{
+        right: -20px;
+    }
+    #residences .residences_flex{
+        gap: 16px;
+    }
+    #about .about_flex ul li{
+        width: 327px;
+    }
+    #about .about_flex ul li .room {
+        width: 327px;
+    }
+}
+@media (max-width:1029px){
+    #about .about_flex ul li .sarah_image img{
+        width: 58px;
+    }
+    #about .about_flex ul li .about_p{
+        font-size: 12px;
+    }
+    #about .about_flex ul li .sarah_image h4{
+        font-size: 11px;
+    }
+    #about .about_flex ul li .sarah_icon img{
+        width: 17px;
+    }
+    #about .about_flex ul li .sarah_icon p {
+        font-size: 15px;
+    }
+    #about .about_flex ul li{
+        width: 317px;
+    }
+    #about .about_flex ul li .room{
+        width: 317px;
+    }
+    #residences .residences_beverly{
+        width: 291px;
+    }
+    #residences .residences_palo{
+        width: 291px;
+    }
+    #home .wrapper .spotlight_middle{
+        width: 948px;
+    }
+    #residences .residences_flex .residences_san{
+        width: 291px;
+    }
+}
+@media (max-width:1025px){
+    #home .wrapper #spotlight img.hero{
+        width: 620px;
+        right: -35px;
+    }
+    #middle .wrapper .house_img {
+        width: 469px;
+    }
+    #home .wrapper #spotlight .spotlight_middle ul li{
+        width: 240px;
+    }
+    #home .wrapper .spotlight_middle{
+        width: 907px;
+    }
+    #home .wrapper #spotlight .spotlight_middle ul li {
+        width: 235px;
+    }
+}
+@media(max-width:1005px){
+    #home .wrapper #spotlight img.hero{
+        width: 580px;
+    }
+    #home .wrapper .spotlight_middle{
+        width: 869px;
+    }
+    #home .wrapper #spotlight .spotlight_middle ul li {
+        width: 220px;
+    }
+    #home .wrapper .spotlight_middle{
+        margin-left: 13px;
+    }
+    #middle .wrapper .house_img{
+        width: 450px;
+    }
+    #middle .wrapper .help_content .help_content_p{
+        margin-bottom: 14px;
+    }
+    #about .about_flex ul li{
+        width: 310px;
+    }
+    #about .about_flex ul li .room {
+        width: 310px;
+    }
+    #about .about_flex ul li .sarah_icon{
+        width: 52px;
+    }
+}
+@media(max-width:961px){
+    #home .wrapper #spotlight img.hero{
+        width: 550px;
+        top: -47px;
+    }
+    #middle .wrapper .help_content h2 {
+        font-size: 30px;
+    }
+    #middle .wrapper .help_content .help_content_p{
+        padding-top: 14px;
+    }
+    #middle .wrapper .house_img{
+        width: 430px;
+    }
+    #middle .help_content .help_flex .adjust{
+        font-size: 36px;
+    }
+    #middle .help_content .help_flex .help_p {
+        font-size: 13px;
+    }
+    #residences .residences_flex .residences_san .residences_h img{
+        width: 13px;
+    }
+    #residences .residences_flex .residences_san .residences_h h4{
+        font-size: 13px;
+    }
+    #residences .residences_flex .residences_san .residences_room img{
+        width: 19px;
+    }
+    #residences .residences_flex .residences_san .residences_room ul li p {
+        font-size: 13px;
+    }
+    #residences .residences_flex .residences_san .residences_room ul li{
+        gap: 8px;
+    }
+    #residences .residences_flex .residences_san .residences_amount button{
+        width:79px;
+    }
+    #residences .residences_flex .residences_san .residences_amount button a {
+        font-size: 12px;
+    }
+    #residences .residences_flex .residences_san .residences_amount p{
+        font-size: 15px;
+    }
+    #residences .residences_beverly .residences_h img {
+        width: 13px;
+    }
+    #residences .residences_beverly .residences_h h4{
+        font-size: 13px;
+    }
+    #residences .residences_beverly .residences_room ul li img{
+        width: 19px;
+    }
+    #residences .residences_beverly .residences_room ul li p{
+        font-size: 13px;
+    }
+    #residences .residences_beverly .residences_room ul li{
+        gap: 8px;
+    }
+    #residences .residences_beverly .residences_amount button{
+        width: 79px;
+    }
+    #residences .residences_beverly .residences_amount button a {
+        font-size: 12px;
+    }
+    #residences .residences_beverly .residences_amount p{
+        font-size: 15px;
+    }
+    #residences .residences_palo .residences_h img {
+        width: 13px;
+    }
+    #residences .residences_palo .residences_h h4{
+        font-size: 13px;
+    }
+    #residences .residences_palo .residences_room ul li img{
+        width: 19px;
+    }
+    #residences .residences_palo .residences_room ul li p {
+        font-size: 13px;
+    }
+    #residences .residences_palo .residences_room ul li {
+        gap: 8px;
+    }
+    #residences .residences_palo .residences_amount button{
+        width: 79px;
+    }
+    #residences .residences_palo .residences_amount button a{
+        font-size: 12px;
+    }
+    #residences .residences_palo .residences_amount p {
+        font-size: 15px;
+    }
+    #residences .residences_beverly{
+        width: 270px;
+    }
+    #residences .residences_palo {
+        width: 270px;
+    }
+    #about .about_flex ul li .sarah_image h3{
+        font-size: 10px;
+    }
+    #about .about_flex ul li .sarah_image h4{
+        font-size: 8px;
+    }
+    #about .about_flex ul li .about_p {
+        font-size: 8px;
+    }
+    #about .about_flex ul li .sarah_icon img {
+        width: 13px;
+    }
+    #about .about_flex ul li .sarah_icon img {
+        font-size: 12px;
+    }
+    #about .about_flex ul li .sarah_icon{
+        width: 49px;
+    }
+    #about .about_flex ul li{
+        width: 270px;
+        height: 421px;
+    }
+    #about .about_flex ul li .room {
+        width: 270px;
+    }
+    #footer .wrapper ul .logo h3{
+        font-size: 12px;
+    }
+    #footer .wrapper ul .Social h3{
+        font-size: 12px;
+    }
+    #footer .wrapper ul .logo a h5 {
+        font-size: 8px;
+    }
+    #footer .wrapper ul .Social a img{
+        width: 18px;
+    }
+    #footer .wrapper ul .logo a img{
+        width: 82px;
+    }
+    #footer .wrapper ul .logo p {
+        line-height: 17px;
+    }
+    #home .wrapper header h1 a img{
+        width: 77px;
+    }
+    #home .wrapper header nav ul li a {
+        font-size: 14px;
+    }
+    #home .wrapper header .icon ul a img{
+        width: 21PX;
+    }
+    #home .wrapper header .icon ul li button {
+        width: 114PX;
+    }
+    #residences .residences_flex .residences_san{
+        width: 270px;
+    }
+}
+@media(max-width:929px){
+    #footer .wrapper ul{
+        gap: 115px;
+    }
+    #main .wrapper .main_flex .Vector .main_image {
+        width: 75px;
+        height: 75px;
+    }
+    #main div .Vector .main_image .image_vector{
+        width: 48px;
+    }
+    main div .Vector .main_image .image_vector{
+        width: 75px;
+        height: 75px;
+    }
+    #main .wrapper .main_flex .Service .main_image img{
+        width: 48px;
+    }
+    #main .wrapper .main_flex .document .main_image{
+        width: 75px;
+        height: 75px;
+    }
+    #main .wrapper .main_flex .document .main_image img{
+        width: 48px;
+    }
+    #main .wrapper .main_flex .handshake .main_image {
+        width: 75px;
+        height: 75px;
+    }
+    #main .wrapper .main_flex .handshake .main_image img{
+        width: 48px;
+    }
+    #middle .wrapper .house_img{
+        width: 420px;
+    }
+    #middle .wrapper .help_content .help_content_p {
+        font-size: 12px;
+    }
+    #middle .wrapper .help_content .help_content_p{
+        margin-bottom: 8px;
+        padding-top: 8px;
+    }
+    #home .wrapper .spotlight_middle{
+        width: 820px;
+    }
+    #home .wrapper #spotlight .spotlight_middle ul li{
+        width: 207px;
+    }
+    #home .wrapper #spotlight .spotlight_flex p{
+        font-size: 14px;
+    }
+    #home .wrapper #spotlight button.signup {
+        width: 150px;
+    }
+    #home .wrapper #spotlight img.hero {
+        width: 534px;
+    }
+    #main .wrapper .main_flex .Service .main_image{
+        width: 75px;
+        height:75px;
+    }
+}
+@media(max-width:897px){
+    #home .wrapper #spotlight img.hero{
+        width: 499px;
+        top: -22px;
+    }
+    #home .wrapper .spotlight_middle{
+        height: 145px;
+    }
+    #home .wrapper .spotlight_middle{
+        width: 800px;
+    }
+    #home .wrapper #spotlight .spotlight_middle ul li{
+        width: 197px;
+    }
+    #footer .wrapper ul .logo a h5 {
+        font-weight: 600;
+    }
+    #footer .wrapper ul .Social a h5{
+        font-weight: 600;
+    }
+    #footer .wrapper ul .logo p {
+        line-height: 15px;
+        font-weight: 400;
+        font-size: 8px;
+    }
+    #footer .wrapper ul{
+        gap: 108px;
+    }
+    #footer .wrapper ul .logo a img{
+        width: 71px;
+    }
+    #home .wrapper header nav ul {
+        gap: 33px;
+    }
+    #home .wrapper header nav ul {
+        gap: 22px;
+    }
+    #home .wrapper header .icon ul li button{
+        width: 108px;
+    }
+    #residences .residences_beverly{
+        width: 248px;
+    }
+    #residences .residences_palo{
+        width: 248px;
+    }
+    #main .wrapper .main_flex .Vector .Vector_p{
+        font-size: 9px;
+    }
+    #main .wrapper .main_flex .Service p{
+        font-size: 9px;
+    }
+    #main div .document p{
+        font-size: 9px;
+    }
+    #main div .handshake p{
+        font-size: 9px;
+    }
+    #residences .residences_flex .residences_san{
+        width: 248px;
+    }
+}
+@media(max-width:856px){
+    #home .wrapper header .icon ul li button {
+        width: 91px;
+        height: 44px;
+    }
+    #home .wrapper header .icon ul li button a{
+        font-size: 13px;
+    }
+    #home .wrapper #spotlight img.hero{
+        width: 463px;
+    }
+    #home .wrapper #spotlight .spotlight_flex h2 span{
+        font-size: 48px;
+    }
+    #home .wrapper #spotlight .spotlight_flex h2{
+        font-size: 49px;
+    }
+    #home .wrapper #spotlight button.signup{
+        width: 134px;
+    }
+    #home .wrapper .spotlight_middle{
+        width: 750px;
+    }
+    #home .wrapper #spotlight .spotlight_middle ul li {
+        width: 179px;
+    }
+    #spotlight .spotlight_flex{
+        height: 697px;
+    }
+    #home .wrapper #spotlight .spotlight_middle ul li .text {
+        font-size: 15px;
+    }
+    #home .wrapper #spotlight .spotlight_middle ul li img.icon{
+        width: 15px;
+    }
+    #middle .wrapper .house_img{
+        width: 405px;
+    }
+    #middle .wrapper .help_content .help_content_p{
+        font-size: 11px;
+        line-height: 22px;
+    }
+    #middle .wrapper .help_content h2 {
+        line-height: 48px;
+    }
+    #about .about_flex ul li{
+        width: 256px;
+        height: 410px;
+    }
+    #about .about_flex ul li .room{
+        width: 256px;
+    }
+    #footer .wrapper ul .logo p {
+        font-size: 6px;
+    }
+}
+@media(max-width:823px){
+    #footer .wrapper ul{
+        gap: 100px;
+    }
+}
+@media(max-width:817px){
+    #footer .wrapper ul .logo a img{
+        height: 22px;
+        width: 69px;
+    }
+    #residences .residences_flex .residences_san .residences_h{
+        padding-left: 9px;
+    }
+    #residences .residences_flex .residences_san .residences_room ul{
+        padding-left: 9px;
+        gap: 25px;
+    }
+    #residences .residences_flex .residences_san .residences_amount button{
+        margin-left: 9px;
+    }
+    #residences .residences_beverly .residences_h{
+        padding-left: 9px;
+    }
+    #residences .residences_beverly .residences_room ul{
+        padding-left: 9px;
+        gap: 25px;
+    }
+    #residences .residences_beverly .residences_amount button{
+        margin-left: 9px;
+    }
+    #residences .residences_palo .residences_h{
+        padding-left: 9px;
+    }
+    #residences .residences_palo .residences_room ul{
+        padding-left: 9px;
+        gap: 25px;
+    }
+    #residences .residences_palo .residences_amount button {
+        margin-left: 9px;
+    }
+    #residences .residences_palo{
+        width: 225px ;
+    }
+    #middle .wrapper .house_img{
+        width: 359px;
+    }
+    #middle .wrapper .help_content h2 {
+        line-height: 37px;
+    }
+    #middle .wrapper .help_content .help_content_p{
+        line-height: 20px;
+    }
+    #home .wrapper .spotlight_middle{
+        width: 715px;
+    }
+    #home .wrapper #spotlight .spotlight_middle ul li {
+        width: 171px;
+    }
+    #residences .residences_flex .residences_san{
+        width: 225px;
+    }
+    #residences .residences_beverly{
+        width: 225px;
+    }
+}
+@media (max-width: 806px){
+    #about .wrapper .about_flex ul {
+        flex-wrap: wrap;
+    }
+    #about {
+        height: 1200px;
+    }
+    #main .main_flex {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 27px;
+    }
+}
+@media (max-width: 785px){
+    #home .wrapper header h1 a img{
+        width: 60px;
+    }
+    #home .wrapper header nav ul{
+        gap: 19px;
+    }
+    #home .wrapper header .icon ul{
+        gap: 19px;
+    }
+    #home .wrapper header .icon ul li button{
+        width: 86px;
+        height: 39px;
+    }
+    #home .wrapper #spotlight .spotlight_flex h2 span{
+        font-size: 37px;
+    }
+    #home .wrapper #spotlight .spotlight_flex h2{
+        font-size: 40px;
+    }
+    #home .wrapper #spotlight .spotlight_flex p{
+        font-size: 10px;
+        line-height: 20px;
+    }
+    #home .wrapper #spotlight button.signup{
+        width: 114px;
+        height: 54px;
+    }
+    #home .wrapper .spotlight_middle {
+        width: 700px;
+    }
+    #middle .wrapper .help_content h2{
+        line-height: 36px;
+    }
+    #middle .wrapper .help_content .help_content_p{
+        line-height: 18px;
+    }
+    #middle .help_content .help_flex .adjust{
+        font-size: 32px;
+        line-height: 51px;
+    }
+    #middle .wrapper .house_img{
+        width: 343px;
+    }
+    #middle .wrapper {
+        padding: 0;
+    }
+    #main .wrapper h2{
+        margin-top: 0;
+    }
+    #question h2{
+        padding-top: 68px;
+        font-size: 30px;
+        line-height: 41px;
+    }
+    #question .question_chat img{
+        width: 20px;
+        height: 20px;
+    }
+    #question .question_chat .question_chat_one p{
+        font-size: 13px;
+    }
+    #question .question_chat{
+        gap: 55px;
+        margin: 28px;
+    }
+    #question .question_chat .question_chat_one {
+        gap: 4px;
+    }
+    #question .question_box .question_email{
+        width: 425px;
+        height: 52px;
+    }
+    #question .question_box .question_button button{
+        width:140px;
+        height: 52px;
+    }
+    #footer .wrapper ul{
+        gap: 88px;
+    }
+    #residences .residences_flex .residences_san .residences_room ul li p{
+        font-size: 11px;
+    }
+    #residences .residences_flex .residences_beverly .residences_room ul li p{
+        font-size: 11px;
+    }
+    #residences  .residences_flex .residences_palo .residences_room ul li p{
+        font-size: 11px;
+    }
+}
+@media (max-width: 751px){
+    #home .wrapper #spotlight img.hero{
+        top: 22px;
+    }
+    #home .wrapper #spotlight .spotlight_middle ul li .text{
+        font-size: 10px;
+    }
+    #home .wrapper #spotlight .spotlight_middle ul li img.icon{
+        width: 13px;
+    }  
+    #home .wrapper #spotlight .spotlight_middle ul .last_li button{
+        font-size: 13px;
+    } 
+    #home .wrapper .spotlight_middle{
+        width: 653px;
+    }
+    #home .wrapper #spotlight .spotlight_middle ul li{
+        width: 149px;
+    }
+    #middle .help_content .help_flex .adjust{
+        line-height: 43px;
+    }
+    #middle .wrapper .help_content h2{
+        font-size: 25px;
+    }
+    #middle .wrapper .house_img{
+        width: 317px;
+    }
+    #residences .residences_flex{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    #about{
+        margin-top: 636px;
+    }
+}
+@media (max-width: 734px){
+    #footer .wrapper ul{
+        gap: 76px;
+    }
+}
+@media (max-width: 706px){
+    #home .wrapper .spotlight_middle{
+        width: 609px;
+    }
+    #home .wrapper #spotlight .spotlight_middle ul li{
+        width: 131px;
+    }
+    #middle .wrapper .house_img{
+        width: 291px;
+    }
+    #middle .wrapper .help_content h2{
+        line-height: 30px;
+        font-size: 20px;
+    }
+    #middle .wrapper .help_content .help_content_p{
+        font-size: 10px;
+    }
+    #middle .help_content .help_flex .adjust{
+        font-size: 26px;
+    }
+    #middle .help_content .help_flex .help_p{
+        font-size: 9px;
+    }
+}
+@media (max-width: 687px){
+    #home .wrapper header h1 a img{
+        width: 53px;
+        height: 17px;
+    }
+    #home .wrapper header nav ul li a{
+        font-size: 10px;
+    }
+    #home .wrapper header .icon ul a img{
+        width: 16px;
+    }
+    #home .wrapper header nav ul{
+        gap: 17px;
+    }
+    #home .wrapper header .icon ul li button{
+        width: 79px;
+        height: 34px;
+    }
+    #home .wrapper header .icon ul li button a{
+        font-size: 11px;
+    }
+    #home .wrapper #spotlight img.hero{
+        width: 406px;
+        left: 220px;
+        top: -55px;
+    }
+    #home .wrapper #spotlight .spotlight_flex h2{
+        font-size: 30px;
+    }
+    #home .wrapper #spotlight .spotlight_flex h2 span{
+        font-size: 28px;
+    }
+    #spotlight .spotlight_flex .spotlight_content{
+        height: 335px;
+    }
+    #spotlight .spotlight_flex{
+        height: 362px;
+    }
+    #home .wrapper #spotlight button.signup {
+        margin-top: 26px;
+    }
+    #home .wrapper .spotlight_middle{
+        top: 386px;
+    }
+    #main .wrapper h2{
+        font-size: 32px;
+    }
+    #main .wrapper .main_p{
+        font-size: 11px;
+    }
+    #residences h2{
+        font-size: 32px;
+        padding-top: 91px;
+        margin-bottom: 40px;
+    }
+    #question .question_box{
+        padding-bottom: 82px;
+    }
+}
+@media (max-width: 659px){
+    #home .wrapper #spotlight .spotlight_flex a{
+        font-size: 14px;
+    }
+    #home .wrapper #spotlight button.signup{
+        width: 82px;
+        height: 41px;
+    }
+    #home .wrapper .spotlight_middle{
+        width: 572px;
+        height: 119px;
+        top: 400px;
+    }
+    #home .wrapper #spotlight .spotlight_middle ul li{
+        width: 124px;
+    }
+    #middle .wrapper .help_content .help_content_p{
+        font-size: 8px;
+    }
+    #middle .help_content .help_flex .help_p{
+        font-size: 7px;
+    }
+    #footer .wrapper ul{
+        gap: 66px;
+    }
+    #home .wrapper #spotlight img.hero{
+        width: 355px;
+    }
+}
+@media (max-width: 617px){
+    #question .question_box .question_button button{
+        width: 108px;
+        height: 47px;
+    }
+    #question .question_box .question_email{
+        width: 315px;
+        height: 47px;
+    }
+    #question .question_box .question_email input{
+        font-size: 10px;
+    }
+    #question .question_box .question_email img{
+        width: 19px;
+    }
+    #question .question_chat{
+        gap: 34px;
+        margin: 23px;
+    }
+    #question .question_box{
+        padding-bottom: 64px;
+    }
+    #question h2{
+        font-size: 22px;
+    }
+    #about .about_icon .icon{
+        width: 50px;
+        height: 50px;
+    }
+    #about h2{
+        font-size: 29px;
+        line-height: 47px;
+    }
+    #about .about_flex ul li .sarah_icon{
+        width: 43px;
+        gap: 7px;
+        top: 53%;
+    }
+    #home .wrapper #spotlight .spotlight_middle ul{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+    #home .wrapper .spotlight_middle{
+        width: 161px;
+        height: 265px;
+        margin-left: 152px;
+        top: 322px;
+        align-items: center;
+    }
+    #home .wrapper #spotlight .spotlight_middle ul li .middle_button{
+        height: 36px;
+    }
+    #home .wrapper #spotlight .spotlight_middle ul li{
+        height: 36px;
+    }
+    #home .wrapper #spotlight .spotlight_middle ul .last_li button{
+        height: 33px;
+    }
+    #home .wrapper #spotlight .spotlight_middle ul .last_li button{
+        font-size: 12px;
+    }
+}
+@media (max-width: 608px){
+    #middle .wrapper .house_img{
+        width: 260px;
+    }
+    #home .wrapper #spotlight img.hero{
+        width: 320px;
+    }
+    #footer .wrapper ul{
+        gap: 50px;
+    }
+}
+@media (max-width: 583px){
+    #about{
+        height: 1612px;
+    }
+    #question h2{
+        font-size: 18px;
+        line-height: 28px;
+    }
+    #question .question_chat{
+        gap: 16px;
+        margin: 17px;
+    }
+    #question .question_box .question_email{
+        width: 266px;
+        height: 40px;
+    }
+    #question .question_box .question_button button{
+        width: 87px;
+        height: 40px;
+    }
+    #question .question_box .question_button a{
+        font-size: 12px;
+    }
+    #footer .wrapper ul{
+        gap: 37px;
+    }
+    #footer .wrapper ul .logo a img{
+        width: 61px;
+        height: 18px;
+    }
+    #about .about_icon .icon{
+        width: 44px;
+        height: 44px    ;
+    }
+}
+@media (max-width: 569px){
+    #home .wrapper header nav ul li a{
+        font-size: 9px;
+    }
+    #home .wrapper header nav ul{
+        gap: 13px;
+    }
+    #home .wrapper header .icon ul a img{
+        width: 11px;
+    }
+    #home .wrapper header .icon ul li button{
+        width: 67px;
+        height: 29px;
+    }
+    #home .wrapper header .icon ul li button a{
+        font-size: 9px;
+    }
+    #home .wrapper #spotlight img.hero{
+        width: 269px;
+    }
+    #spotlight .spotlight_flex .spotlight_content{
+        height: 267px;
+    }
+    #middle .wrapper{
+        display: flex;
+        flex-direction: column;
+        align-items: center;    
+    }
+    #middle .wrapper .house_img{
+        height: 208px;
+    }
+    #main .wrapper h2{
+        padding-top: 36px;
+    }
+}
+@media (max-width: 518px){
+    #about{
+        margin-top: 1151px;
+    }
+}
+@media (max-width: 515px){
+    #spotlight .spotlight_flex .spotlight_content {
+        align-items: center;
+    }
+    #home .wrapper #spotlight img.hero {
+        left: 50px;
+        top:200px;
+    }
+    #residences h2{
+        font-size: 25px;
+    }
+    #middle .wrapper{
+        padding-top: 80px;
+    }
+    #home{
+        height: 755px;
+    }
+    #home .wrapper .spotlight_middle{
+        top: 652px;
+    }
+    #home .wrapper #spotlight img.hero{
+        left: 86px;
+        top: 249px;
+    }
+    #footer .wrapper ul{
+        gap: 28px;
+    }
+}
+@media (max-width: 459px){
+    #home .wrapper header nav ul{
+        display: none;
+
+    }
+    #home .wrapper header nav ul{
+        background-color: #fff;
+        position: fixed;
+        text-align: center;
+        display: block;
+        z-index: 100;
+        height: 150px;
+        width: 100px;
+        position: absolute;
+        right: 2%;
+        top: 18%;
+        border-radius: 8px;
+        transition: all .10s;
+        visibility: visible;
+        opacity: 40%;
+    }
+    #home .wrapper header nav ul li{
+        padding: 10px 0px;
+    }
+    #home .wrapper header .icon ul {
+        margin-right: 49px;
+    }
+    .checkbtn #bars{
+        display: block;
+    }
+    #check:checked ~ #home .wrapper header nav ul{
+        visibility: visible;
+    }
+    #footer .wrapper ul .Social a img{
+        width: 12px;
+    }
+    #footer .wrapper ul{
+        gap: 23px;
+    }
+    #question h2{
+        font-size: 14px;
+        line-height: 25px;
+    }
+    #question .question_chat .question_chat_one p{
+        font-size: 9px;
+    }
+    #question .question_chat img{
+        width: 12px;
+        height: 12px;
+    }
+    #question .question_chat .question_chat_one{
+        gap: 2px;
+    }
+    #question .question_box .question_email{
+        width: 215px;
+        height: 37px;
+    }
+    #question .question_box .question_button button{
+        width: 80px;
+        height:37px ;
+    }
+    #question .question_box .question_button a{
+        font-size: 10px;
+    }
+    #footer .wrapper ul .logo a h5{
+        font-size: 6px;
+    }
+    #footer .wrapper ul .logo h3{
+        font-size: 10px;
+    }
+    #footer .wrapper ul .Social h3{
+        font-size: 10px;
+    }
+    #footer .wrapper ul .Social a h5{
+        font-size: 6px;
+    }
+    #footer .wrapper ul .logo a img{
+        width: 53px;
+        height: 15px;
+    }
+}
+@media(max-width: 385px){
+    #home .wrapper #spotlight img.hero{
+        left: 40px;
+    }
+    #home .wrapper .spotlight_middle{
+        margin-left: 106px;
+    }
+    #main .wrapper h2{
+        font-size: 26px;
+    }
+    #main .wrapper .main_p{
+        font-size: 8px;
+        margin-top: 0;
+        line-height: 19px;
+    }
+    #residences h2{
+        font-size: 18px;
+    }
+    #about h2{
+        font-size: 20px;
+        line-height: 32px;
+    }
+    #footer .wrapper ul .logo p{
+        line-height: 11px;
+    }
+    #footer .wrapper ul{
+        gap: 19px;
+    }
+    #question .question_box .question_email{
+        width: 172px;
+        height: 31px;
+    }
+    #question .question_box .question_email input{
+        font-size: 7px;
+    }
+    #question .question_box .question_email img{
+        width: 13px;
+    }
+    #question .question_box .question_button button{
+        width: 57px;
+        height: 31px;
+    }
+    #question .question_box .question_button a{
+        font-size: 9px;
+    }
+}
+@media(max-width:336px){
+    #home .wrapper #spotlight img.hero{
+        left: 20px;
+    }
+    #home .wrapper .spotlight_middle{
+        margin-left: 68px;
+    }
+}
